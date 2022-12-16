@@ -18,6 +18,6 @@ module.exports = ( date, callback )=>{
             throw "Cannot Set Timeout for date older than 25 days";
         }
     } else {
-        throw "Wrong Date";
+        throw "Wrong Date Format";
     }
 }
