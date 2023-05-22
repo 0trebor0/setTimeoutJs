@@ -1,0 +1,10 @@
+{
+  "name": "settimeoutjs",
+  "version": "1.0.0",
+  "description": "Set timeout for dates smaller than 25 days",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "0trebor0",
+  "license": "ISC"
+}
